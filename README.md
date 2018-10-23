@@ -34,7 +34,7 @@
 
 # Results
 ## Video results
-[Part 1](https://youtu.be/0bJTG15DF1U)
+[Part](https://youtu.be/0bJTG15DF1U)
 
 ## Image results
 ![1](outputs/3457.png)</br>
